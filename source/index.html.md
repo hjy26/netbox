@@ -6,7 +6,6 @@ language_tabs: # must be one of https://git.io/vQNgJ
 
 toc_footers:
   - <a href='mailto:info@rangeball.co.uk'>Support</a>
-  - <a href='https://www.startupheroes.co.uk/services/embedded-software-development/'>Embedded Development by Startup Heroes</a>
 
 search: true
 ---
