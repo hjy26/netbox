@@ -55,6 +55,8 @@ Please note that you must include the port number of the Netbox service within t
 
 The address is a value between `1` and `8`. In some cases you can specify `all` to broadcast to every controller, this option is highlighted when available.
 
+# Dispenser Types
+
 # Endpoints
 
 ## Controller Status
