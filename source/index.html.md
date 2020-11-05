@@ -132,7 +132,7 @@ status | `String` | `idle` - The controller is online and awaiting user input.
  | | `change_hopper_empty` - Controller's change hopper is empty.
  | | `keypad_entry` - TODO
  | | `ball_hopper_low` - Controller's ball hopper is low.
-
+ | | `unknown` - Controller status is not known, usually when processing data or busy.
 ### Controller Data
 
 Parameter | Type | Description
